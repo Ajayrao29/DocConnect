@@ -1,6 +1,5 @@
 DocConnect
 
-Overview
 DocConnect is a Streamlit-based web application that enables users to upload PDF documents, index their contents using Pinecone, and interact with them by asking questions. The application integrates LangChain for embedding generation, Google Generative AI (Gemini) for answering queries, and Pinecone for efficient vector storage and retrieval.
 
 Features
